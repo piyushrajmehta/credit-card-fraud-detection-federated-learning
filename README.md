@@ -43,14 +43,16 @@ This project proves that financial institutions can collaboratively improve frau
    2. Paste the strimlit.py code in it 
 
    3. Open Terminal and paste the line 👇 and enter 
+
       streamlit run strimlit.py
 
-   4. Again paste this line 👇 and enter 
+   5. Again paste this line 👇 and enter 
+
       pip install streamlit pandas numpy scikit-learn imbalanced-learn plotly
 
-   5. Dashboard will open 
+   6. Dashboard will open 
 
-   6. Upload Dataset in dashboard it will give the result 
+   7. Upload Dataset in dashboard it will give the result 
    
 
 ## Result table 
