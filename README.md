@@ -21,6 +21,7 @@ This project proves that financial institutions can collaboratively improve frau
  - [Research Paper](https://link.springer.com/article/10.1007/s44230-022-00004-0)
  
  - [Data Set](https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-detection-dataset-2023)
+
 ## How to Run 
 
    1. Open any browser like Google Chrome or Safari. 
@@ -33,4 +34,8 @@ This project proves that financial institutions can collaboratively improve frau
 
    5. Upload Dataset in cell 3 and run it.
 
-   6. After that run all other cells to get the result.   
+   6. After that run all other cells to get the result. 
+
+## Result table 
+
+<img width="452" height="277" alt="Screenshot 2026-07-04 at 12 17 52 PM" src="https://github.com/user-attachments/assets/2760ec24-fee9-4bb3-ab46-b5000d6993ad" />
